@@ -1,0 +1,11 @@
+langchain-openai
+langchain
+python-dotenv
+chainlit
+langchain_core
+api_docs
+prompts
+pypdf
+langchain_community
+faiss-cpu
+dash

@@ -1,0 +1,15 @@
+
+__pycache__
+*.pyc
+.chainlit
+.files
+docs/*.*
+faiss_index.*
+screenshots
+venv
+.env
+.idea
+.vscode
+*.zip
+*.pdf
+
